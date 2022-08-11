@@ -1,0 +1,15 @@
+C:\Users\Ёлка\Desktop\seminar1_dz\bin\Debug\net6.0\seminar1_dz.exe
+C:\Users\Ёлка\Desktop\seminar1_dz\bin\Debug\net6.0\seminar1_dz.deps.json
+C:\Users\Ёлка\Desktop\seminar1_dz\bin\Debug\net6.0\seminar1_dz.runtimeconfig.json
+C:\Users\Ёлка\Desktop\seminar1_dz\bin\Debug\net6.0\seminar1_dz.dll
+C:\Users\Ёлка\Desktop\seminar1_dz\bin\Debug\net6.0\seminar1_dz.pdb
+C:\Users\Ёлка\Desktop\seminar1_dz\obj\Debug\net6.0\seminar1_dz.csproj.AssemblyReference.cache
+C:\Users\Ёлка\Desktop\seminar1_dz\obj\Debug\net6.0\seminar1_dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ёлка\Desktop\seminar1_dz\obj\Debug\net6.0\seminar1_dz.AssemblyInfoInputs.cache
+C:\Users\Ёлка\Desktop\seminar1_dz\obj\Debug\net6.0\seminar1_dz.AssemblyInfo.cs
+C:\Users\Ёлка\Desktop\seminar1_dz\obj\Debug\net6.0\seminar1_dz.csproj.CoreCompileInputs.cache
+C:\Users\Ёлка\Desktop\seminar1_dz\obj\Debug\net6.0\seminar1_dz.dll
+C:\Users\Ёлка\Desktop\seminar1_dz\obj\Debug\net6.0\refint\seminar1_dz.dll
+C:\Users\Ёлка\Desktop\seminar1_dz\obj\Debug\net6.0\seminar1_dz.pdb
+C:\Users\Ёлка\Desktop\seminar1_dz\obj\Debug\net6.0\seminar1_dz.genruntimeconfig.cache
+C:\Users\Ёлка\Desktop\seminar1_dz\obj\Debug\net6.0\ref\seminar1_dz.dll
